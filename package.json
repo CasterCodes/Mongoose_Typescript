@@ -9,6 +9,7 @@
   "author": "Kevin Caster",
   "license": "ISC",
   "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
     "@types/express": "^4.17.13",
     "nodemon": "^2.0.13",
     "ts-node": "^10.2.1",
